@@ -22,4 +22,4 @@ setInterval(async function() {
   }
 }, 20000)
 
-client.login(TOKEN)
+client.login(NzgwMjY1NDI0ODM0OTIwNDQ4.X7skzQ.882O9h91qbm30c7nOElOaOKndbk)
